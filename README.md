@@ -19,12 +19,14 @@ arrow-13.1:
 - Add Spoof preferences from @RisingTechOSS
 - Add Android Pie animation
 - Add per-app volume feature
+- Redesign volume slider from P404
+- Drop output button in volume slider while stream
 - Move display density and display cutout to display settings
 - Many other improvements
 
 arrow-13.1_ext:
 - Same as arrow-13.1 changelogs
-- Redesign About Phone and Firmware Version UI
+- Redesign About Phone (from @DroidX-UI) and Firmware Version UI
 - Implement QSWidgets
 - Add Island notification feature
 - Add statusbar colored icon
