@@ -1,3 +1,35 @@
+ArrowOS-T (10-2024 Security Patch) Changelogs :
+==============================================
+
+Date: October 26, 2024
+
+arrow-13.1:
+- Merged and update to October Security Patch
+- Rework Sharpener interface
+- Introduce Cache Cleaner
+- Add Lock Apps in Launcher
+- Revert xdroid-oss base layout (only in ext version now)
+- Integrate Google Lens to Screenshoot UI
+- Fix Split Shade QS scrim
+- Port CLO's Framework Boost
+- Add tile to show volume panel
+- Various improvements and changes
+
+arrow-13.1_ext:
+- Same as arrow-13.1 changelogs
+- Add Battery style customization
+- Add Old style data indicator
+- Add dynamic VoLTE and VoWiFi icon toggle
+- Add toggle for hide call strength icon
+- Add option to display data disabled indicator icon
+- Introduce and add toggle for combined signal icon
+- Remove HD & Wifi calling statusbar icon (now change to dynamic VoLTE & VoWiFi)
+- Add QS A11 Style also add QS & QQS Column toggle
+- Many improvements and changes
+
+
+
+
 ArrowOS-T (09-2024 Security Patch) Changelogs :
 ==============================================
 
