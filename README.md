@@ -1,9 +1,7 @@
-ArrowOS-T (10-2024 Security Patch) Changelogs :
-==============================================
-
+# ArrowOS-T (10-2024 Security Patch) Changelogs :
 Date: October 26, 2024
 
-arrow-13.1:
+arrow-13.1 (Regular):
 - Merged and update to October Security Patch
 - Rework Sharpener interface
 - Introduce Cache Cleaner
@@ -15,7 +13,7 @@ arrow-13.1:
 - Add tile to show volume panel
 - Various improvements and changes
 
-arrow-13.1_ext:
+arrow-13.1_ext (Extended):
 - Same as arrow-13.1 changelogs
 - Add Battery style customization
 - Add Old style data indicator
@@ -30,12 +28,10 @@ arrow-13.1_ext:
 
 
 
-ArrowOS-T (09-2024 Security Patch) Changelogs :
-==============================================
-
+# ArrowOS-T (09-2024 Security Patch) Changelogs :
 Date: September 28, 2024
 
-arrow-13.1:
+arrow-13.1 (Regular):
 - Merged and update to September Security Patch
 - Spoof locked bootloader with valid certificate chain
 - Add Sharpener preferences for extension menu
@@ -56,7 +52,7 @@ arrow-13.1:
 - Move display density and display cutout to display settings
 - Many other improvements
 
-arrow-13.1_ext:
+arrow-13.1_ext (Extended):
 - Same as arrow-13.1 changelogs
 - Redesign About Phone (from @DroidX-UI) and Firmware Version UI
 - Implement QSWidgets
