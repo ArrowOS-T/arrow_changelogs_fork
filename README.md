@@ -1,4 +1,24 @@
-# ArrowOS-T (10-2024 Security Patch) Changelogs :
+ArrowOS-T (11-2024 Security Patch) Changelogs :
+Date: November 15, 2024
+
+arrow-13.1 (Regular):
+- Merged and update to November Security Patch
+- Rework spoofing mechanism (thanks to @KusumaOS)
+- Introduce OmniJaws service
+- Add At Glance to Launcher
+- Add Weather configuration for Lockscreen
+- Introduce Hidden and Protected Apps
+- Various improvements and changes
+
+arrow-13.1_ext (Extended):
+- Same as arrow-13.1 changelogs
+- Add Statusbar Lyric
+- Fix issue in Battery Styles
+- Many improvements and changes
+
+
+
+ArrowOS-T (10-2024 Security Patch) Changelogs :
 Date: October 26, 2024
 
 arrow-13.1 (Regular):
@@ -27,8 +47,7 @@ arrow-13.1_ext (Extended):
 
 
 
-
-# ArrowOS-T (09-2024 Security Patch) Changelogs :
+ArrowOS-T (09-2024 Security Patch) Changelogs :
 Date: September 28, 2024
 
 arrow-13.1 (Regular):
