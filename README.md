@@ -14,6 +14,7 @@ arrow-13.1_ext (Extended):
 - Same as arrow-13.1 changelogs
 - Add Statusbar Lyric
 - Fix issue in Battery Styles
+- Fix VoLTE icon visibility issue
 - Many improvements and changes
 
 
